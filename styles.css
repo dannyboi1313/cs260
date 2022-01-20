@@ -1,0 +1,63 @@
+body {
+    color: white;               
+    background-image: url("background.png");
+    background-size: contain;
+    background-repeat: repeat;
+    background-blend-mode:multiply;
+    font-family:'Segoe UI';
+  }
+  .section1{
+      background-color: #676f75ab;
+      padding: 1.6em;
+      margin-left: 5em;
+      margin-right: 5em;
+      margin-top: 2em;
+  }
+
+  
+  h1 {
+    font-size: 36px;
+    text-align: center;
+    
+  }
+  h2 {
+    font-size: 28px;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #408697;
+  }
+  li {
+    float: left;
+    border-right: 1px solid #bbb;
+  }
+  li:last-child {
+    border-right: none;
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  ol {
+    list-style-type: none;
+    background-color: blanchedalmond;
+  }
+
+    .Contact{
+        background-color: #134269e3;
+        width: auto;
+        
+    }
+
